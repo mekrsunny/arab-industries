@@ -1,0 +1,28 @@
+   /* Profile card container */
+        .profile-card {
+            margin: 0;
+            width: auto;
+            text-align: center;
+            padding: 20px;
+            box-shadow: 0 6px 7px -7px rgba(0, 0, 0, 0.35); /* Add the box shadow here */
+        }
+
+        /* Profile image */
+        .profile-image {
+            width: 100px;
+            height: 100px;
+            border-radius: 50%;
+            background-color: #333;
+            margin: 0 auto;
+        }
+
+
+        /* Profile name */
+        .profile-name {
+            font-weight: bold;
+            margin-top: 10px;
+        }
+
+#sidebar{
+    background-color: #fff;
+}
